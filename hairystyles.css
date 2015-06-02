@@ -1,0 +1,38 @@
+body{
+	margin: 0px;
+}
+
+#topbar{
+	background-color:#7A0000;
+	height:40px;
+	width: 100%;
+	margin:0px;
+	position:absolute;
+	z-index: 1;
+	color:white;
+}
+
+#container{
+	width: 80%;
+	min-width:800px;
+	max-width: 1000px;
+	margin: 0 auto;
+	z-index: 2;
+	color: white;
+	position: relative;
+}
+#signin > p{
+	margin: 0px;
+}
+#bbclogo{
+	margin:0px;
+}
+#signin{
+	float:left;
+	margin-left: 10px;
+	padding-left:10px;
+	padding-top:0px;
+	border-left: 2px solid #7A2222;
+	height:40px;
+	line-height: 40px
+}
